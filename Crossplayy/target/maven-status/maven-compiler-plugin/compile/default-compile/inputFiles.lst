@@ -1,0 +1,11 @@
+/Users/aayushdube/Downloads/Crossplayy/src/main/java/com/example/Crossplayy/CrossplayyApplication.java
+/Users/aayushdube/Downloads/Crossplayy/src/main/java/com/example/Crossplayy/config/AppConfig.java
+/Users/aayushdube/Downloads/Crossplayy/src/main/java/com/example/Crossplayy/controller/UserController.java
+/Users/aayushdube/Downloads/Crossplayy/src/main/java/com/example/Crossplayy/dto/LoginRequest.java
+/Users/aayushdube/Downloads/Crossplayy/src/main/java/com/example/Crossplayy/dto/RegisterRequest.java
+/Users/aayushdube/Downloads/Crossplayy/src/main/java/com/example/Crossplayy/model/User.java
+/Users/aayushdube/Downloads/Crossplayy/src/main/java/com/example/Crossplayy/repository/UserRepository.java
+/Users/aayushdube/Downloads/Crossplayy/src/main/java/com/example/Crossplayy/security/JwtAuthFilter.java
+/Users/aayushdube/Downloads/Crossplayy/src/main/java/com/example/Crossplayy/security/JwtUtil.java
+/Users/aayushdube/Downloads/Crossplayy/src/main/java/com/example/Crossplayy/security/SecurityConfig.java
+/Users/aayushdube/Downloads/Crossplayy/src/main/java/com/example/Crossplayy/service/AuthService.java
